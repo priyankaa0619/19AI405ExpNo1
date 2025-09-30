@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: VISWAJITH LALITHRAM R.V
-<h3>Register Number: 212224240187
+<h3>Name: R.priyankaa
+<h3>Register Number: 212224060198
 
 
 <h3>AIM:</h3>
